@@ -20,8 +20,6 @@ Areas: Supervised and Unsupervised Learning, NLP, Deep Learning, Computer Vision
 
 [Research Study on Multimodal Hallucinations](https://github.com/Harsha6661/Research-project) — Investigating hallucination in vision-language models and adapting the POPE framework into a supervised detection system.
 
-Predictive Analytics and Model Deployment (coming soon) — End-to-end machine learning pipeline with cloud deployment using scikit-learn and AWS.
-
 ### Certifications
 
 AWS Academy Graduate — Machine Learning Foundations
